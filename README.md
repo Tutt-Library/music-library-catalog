@@ -40,6 +40,8 @@ Enrichment Project with the following project goals:
     
 [BIBFRAME]: http://bibframe.org/
 [DISCOGS]: http://www.discogs.com/
+[GETTY_VOCAB]: http://www.getty.edu/research/tools/vocabularies/lod/
 [ID_LOC]: http://id.loc.gov/
 [PPC_HYBRID]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCAQFjAA&url=http%3A%2F%2Fwww.loc.gov%2Faba%2Fpcc%2Frda%2FRDA%2520Task%2520groups%2520and%2520charges%2FPCC-Hybrid-Bib-Rec-Guidelines-TG-Report.docx&ei=onoQVImZBoqfyAS12oDIDw&usg=AFQjCNEjwl6StfvyczUd3PosbgaZwxnVww&sig2=PzaNEBlMn9COYC05vfOmRA&bvm=bv.74649129,d.aWw
+[SCHEMA]: http://schema.org/
 [VIAF]: http://viaf.org/
