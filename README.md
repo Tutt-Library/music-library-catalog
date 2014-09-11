@@ -1,4 +1,4 @@
-# Sealy Music Library Catalog at Colorado College 
+# Seay Music Library Catalog at Colorado College 
 
 This repository contains the source code for the Music Library Catalog 
 Enrichment Project with the following project goals:
